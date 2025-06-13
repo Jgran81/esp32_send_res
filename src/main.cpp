@@ -8,7 +8,7 @@
 #define RECEIVER
 
 // RECEIVER MAC Address
-constexpr uint8_t broadcastAddress[] = {0x78, 0xee, 0x4c, 0x01, 0x6a, 0x10};
+constexpr uint8_t broadcastAddress[] = {0x78, 0xee, 0x4c, 0x01, 0x6a, 0x10};	//UPDATE THIS LINE!
 
 esp_now_peer_info_t peerInfo;
 
